@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo To Art Postcard Studio"
+  short_description: "Turn real photos into collectible front-and-back art postcards"
+  default_prompt: "Use $photo-to-merch-studio to turn this photo into a collectible art postcard with a matching back."
