@@ -1,0 +1,1 @@
+Required Notice: Copyright 2026 fry-haha. Photo To Art Postcard Studio is available for noncommercial use under the PolyForm Noncommercial License 1.0.0. Commercial use requires separate written permission from the repository owner.
